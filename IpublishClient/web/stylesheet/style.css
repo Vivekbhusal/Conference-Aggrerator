@@ -1,0 +1,88 @@
+#chartdiv > div > div > svg > desc{
+    display: none;
+}
+#chartdiv > div > div > a{
+    display: none !important;
+}
+
+.dropdown-rank{
+    width: 120px;
+    background: #49afcd;
+    color: #ffffff;
+    font-size: 14px;
+line-height: 20px;
+padding: 8px;
+height: 30px !important;
+}
+.greentext{
+    color: green;
+}
+
+.redtext{
+    color: red;
+}
+
+.bluetext{
+    color:blue;
+}
+
+.div-row {
+  padding: 30px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: 200;
+  line-height: 30px;
+  color: inherit;
+  background-color: #eeeeee;
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+}
+
+.div-row h1 {
+  margin-bottom: 0;
+  font-size: 50px;
+  line-height: 1;
+  letter-spacing: -1px;
+  color: inherit;
+}
+
+.div-row li {
+  line-height: 30px;
+}
+
+.wrapper{
+    /*background: #c4c4c4;*/
+    margin-bottom: 4px;
+    /*padding-right: 3px;*/
+    /*padding-left: 3px;*/
+}
+
+.tweet-list {
+    float: right;
+    height: 400px;
+    overflow: scroll;
+  padding: 15px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  font-weight: 200;
+  line-height: 20px;
+  color: inherit;
+  background-color: #eeeeee;
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+}
+
+.tweet-list h1 {
+  margin-bottom: 0;
+  font-size: 30px;
+  line-height: 1;
+  letter-spacing: -1px;
+  color: inherit;
+}
+
+
+.span7 {
+    width: 586px !important;
+}
